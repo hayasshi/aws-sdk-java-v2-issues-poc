@@ -14,8 +14,6 @@ import software.amazon.awssdk.services.dynamodb.model._
 
 import java.lang
 import java.net.URI
-import java.util.concurrent.atomic.AtomicLong
-import java.util.function
 import java.util.function.Function
 import scala.concurrent.duration._
 import scala.concurrent.{Await, Promise}
